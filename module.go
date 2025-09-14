@@ -4,7 +4,7 @@ import (
 	"github.com/caddyserver/caddy/v2"
 	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
 //	transip "github.com/libdns/transip"
-	transip "thub.com/70MM13/libdns-transip"
+	transip "github.com/70MM13/libdns-transip"
 )
 
 // Provider lets Caddy read and manipulate DNS records hosted by this DNS provider.
